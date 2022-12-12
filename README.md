@@ -8,3 +8,4 @@
 - Balance of Civs. See: [#2](https://github.com/Caballero-Arepa/Multiplayer-Enhancer/issues/2) (not implemented yet)
 - 2 aditional speeds, a Faster Speed, and a intermediate speed between Normal and Quick
 - Added Religious Victory
+- +25% Production bonus for a city connected to the Capital
