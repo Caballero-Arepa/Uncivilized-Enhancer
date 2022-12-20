@@ -34,7 +34,9 @@
     {
         "name": "Siege",
         "movementType": "Land",
-		"uniques": ["[+50]% Strength <when fighting in [Fort] tiles> <when defending>","[+50]% Strength <when fighting in [City Center] tiles> <when defending>","[+50]% Strength <when fighting in [Citadel] tiles> <when defending>"]
+		"uniques": ["[+50]% Strength <when fighting in [Fort] tiles> <when defending> <vs [Water] units>",
+			    "[+50]% Strength <when fighting in [City Center] tiles> <when defending> <vs [Water] units>",
+			    "[+50]% Strength <when fighting in [Citadel] tiles> <when defending> <vs [Water] units>"]
     },
     {
         "name": "Civilian Water",
