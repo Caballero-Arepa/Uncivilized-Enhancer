@@ -252,6 +252,7 @@
 		"rangedStrength": 10,
 		"cost": 56,
 		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus"],
@@ -550,9 +551,9 @@
 		"uniqueTo": "Germany",
 		"movement": 2,
 		"strength": 16,
-		"cost": 45,
+		"cost": 60,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought" ],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought"],
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
@@ -778,6 +779,7 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Iron",
+		"uniques": ["Damage is ignored when determining unit Strength"],
 		"promotions": ["Amphibious"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
