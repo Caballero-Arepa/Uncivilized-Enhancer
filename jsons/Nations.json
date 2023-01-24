@@ -452,7 +452,7 @@
 		"innerColor": [246,205,137],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Great Warpath",
-		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.","All newly-trained [Melee] units [in all cities] receive the [Woodsman] promotion"],
+		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.","All newly-trained [Land] units [in all cities] receive the [Woodsman] promotion"],
 		"cities": ["Onondaga","Osininka","Grand River","Akwesasme","Buffalo Creek","Brantford","Montreal","Genesse River",
 			"Canandaigua Lake","Lake Simcoe","Salamanca","Gowanda","Cuba","Akron","Kanesatake","Ganienkeh","Cayuga Castle",
 			"Chondote","Canajoharie","Nedrow","Oneida Lake","Kanonwalohale","Green Bay","Southwold","Mohawk Valley",
