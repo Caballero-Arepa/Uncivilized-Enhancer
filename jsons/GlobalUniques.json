@@ -1,12 +1,7 @@
 {
     "name": "Global uniques", 
     "uniques": [
-        "[-75]% growth [in all cities] <when between [-10] and [0] Happiness>",
-        "Nullifies Growth [in all cities] <when below [-10] Happiness>",
-        "[-50]% [Production] [in all cities] <when below [-10] Happiness>",
-        "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
-        "Cannot build [Settler] units <when below [-10] Happiness>",
-        "Rebel units may spawn <when below [-20] Happiness>",
+        "Rebel units may spawn <when below [-15] Happiness>",
 		"[+25%] [Production] [in all cities connected to capital] <with [1] to [6] neighboring [Railroad] tiles>"
     
         // TODO: Implement the uniques below
