@@ -563,7 +563,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Seven Cities of Gold",
 		"uniques": ["Gain [200] [Gold] <upon discovering a Natural Wonder>",
-			"Double Happiness from Natural Wonders", "[+100]% Yield from every [Natural Wonder]"],
+			"[+1 Happiness] for every known Natural Wonder", "[+100]% Yield from every [Natural Wonder]"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
 			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
