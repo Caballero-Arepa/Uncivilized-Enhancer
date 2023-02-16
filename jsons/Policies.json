@@ -224,8 +224,7 @@
             "Scientific": 0
         },
         "uniques": [
-            "[+100]% Production when constructing [Shrine] buildings [in all cities]",
-            "[+100]% Production when constructing [Temple] buildings [in all cities]",
+            "[+100]% Production when constructing [Faith] buildings [in all cities]"
             "Only available <before adopting [Rationalism]>"
         ],
         "policies": [
@@ -242,7 +241,7 @@
                 "name": "Mandate Of Heaven",
                 "uniques": [
                     "[50]% of excess happiness converted to [Culture]",
-                    "[+1 Happiness] from every [Shrine]"
+                    "[+1 Happiness] from all [Faith] buildings",
                 ],
                 "row": 1,
                 "column": 5
@@ -676,7 +675,8 @@
                 "uniques": [
                     "[+2 Production] [in all cities]",
                     "[+1 Production] from every [Mine]",
-                    "[+1 Production] from every [Quarry]"
+                    "[+1 Production] from every [Quarry]",
+                    "[+1 Production] from every [Manufactory]",
                 ],
                 "row": 3,
                 "column": 3
