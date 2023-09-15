@@ -945,6 +945,14 @@
 		"requiredTech": "Refrigeration"
 	},
 	{
+		"name": "National Stadium",
+		"happiness": 8,
+		"culture": 2,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Stadium] in all cities", "Cost increases by [30] per owned city"],
+		"requiredTech": "Refrigeration"
+	},
+	{
 		"name": "Broadcast Tower",
 		"culture": 3,
 		"percentStatBonus": {"culture": 33},
